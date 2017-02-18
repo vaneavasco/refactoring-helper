@@ -1,0 +1,16 @@
+{
+    "name": "vaneavasco/refactoring-helper",
+    "description": "A small helper for refactoring huge php classes.",
+    "authors": [
+        {
+            "name": "vanea",
+            "email": "vaneavasco@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vaneavasco\\Refactor\\": "src"
+        }
+    }
+}
